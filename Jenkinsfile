@@ -1,4 +1,6 @@
-
 @Library('roboshop') _
 
-nodejs()
+nodejs(
+    COMPONENT                 : 'user',
+    LABEL                     : 'WORKSTATION'
+)
